@@ -25,7 +25,7 @@ const testimonials = [
     nombre: 'Carlos Ruiz',
     cargo: 'Diseñador UI/UX - PixelArt',
     texto: 'El diseño es elegante y la velocidad de carga es notable. Los usuarios tuvieron una mejor retención.',
-    foto: 'https://i.pravatar.cc/200?img=5'
+    foto: 'https://i.pravatar.cc/200?img=52'
   },
   {
     id: 5,
@@ -46,14 +46,14 @@ const testimonials = [
     nombre: 'Lucía Fernández',
     cargo: 'Marketing Lead - BrandUp',
     texto: 'La flexibilidad nos permitió adaptar campañas y mejorar conversiones en poco tiempo.',
-    foto: 'https://i.pravatar.cc/200?img=22'
+    foto: 'https://i.pravatar.cc/200?img=27'
   },
   {
     id: 8,
     nombre: 'Javier López',
     cargo: 'CTO - NextGen',
     texto: 'Arquitectura sólida, escalable y con buen rendimiento bajo carga. Recomendado para proyectos serios.',
-    foto: 'https://i.pravatar.cc/200?img=30'
+    foto: 'https://i.pravatar.cc/200?img=3'
   }
 ];
 
